@@ -1,4 +1,4 @@
-# Memorize-game
+# Memorize
 A card-matching game. SwiftUI.
 
 
