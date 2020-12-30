@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  Memorize
 //
-//  Created by Ievgen Iatsenko on 2020-12-20.
-//
 
 import UIKit
 
